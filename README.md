@@ -1,2 +1,2 @@
-# Computer Networks Laboratory
-This course provided hands-on experience with various network configurations and protocols. I learned to set up and monitor LANs, configure routers with static and dynamic routing (RIP, IGRP, OSPF, BGP), manage access lists, and work with VLANs. I also gained experience in IPv6 configuration, packet sniffing, and understanding DNS, which enhanced my practical knowledge of network management and security.
+# IPv6 configuration
+IPv6 configuration involves assigning 128-bit addresses to devices, using protocols like SLAAC or DHCPv6 for automatic address assignment. It enables better scalability, security, and communication over modern networks compared to IPv4. 
